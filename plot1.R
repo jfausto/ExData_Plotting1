@@ -4,6 +4,7 @@
 
 ## IMPORTANT NOTE #####
 ## DataSetLoad.R must be executed before to get the pwcFeb07 data frame
+source(DataSetLoad.R)
 
 ## Draw the first Plot
 
